@@ -1,0 +1,13 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\bin\Debug\Operaciones basicas P.O.O.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\bin\Debug\Operaciones basicas P.O.O.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\bin\Debug\Operaciones basicas P.O.O.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\bin\Debug\Operaciones basicas P.O.O.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones_basicas_P.O.O.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones basicas P.O.O.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones basicas P.O.O.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones basicas P.O.O.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones basicas P.O.O.pdb
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\bin\Debug\Operaciones basicas P.O.O.exe.config
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones basicas P.O.O.exe
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones basicas P.O.O.xml
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Console\AJ Programer\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones basicas P.O.O.pdb
